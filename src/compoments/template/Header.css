@@ -1,0 +1,16 @@
+header.header {   
+    grid-column-start:1;
+    grid-column-end:6;
+
+    }
+
+.header {
+
+    background-color: blue;
+
+ }
+link {
+    
+        max-width: 2.25px;
+    
+}
